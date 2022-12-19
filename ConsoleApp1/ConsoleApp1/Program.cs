@@ -10,3 +10,4 @@ Console.WriteLine("Hello, World!");
 // this is conflict.
 
 //this is change in feature 2 and want to merge in master
+// this change is done in feature 1
